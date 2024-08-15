@@ -27,7 +27,9 @@ Back-end: MySQL
 Programming Languages: Python, SQL
 
 **Setup and Installation**
+
 1)Clone the repository:git clone https://github.com/yourusername/Movie-Ticket-Booking-System.git
+
 2)Navigate to the project directory:cd Movie-Ticket-Booking-System
 3)Install the required packages:pip install -r requirements.txt
 4)Set up the MySQL database using the provided DDL and DML scripts in the /database directory.
