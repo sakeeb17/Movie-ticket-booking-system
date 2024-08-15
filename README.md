@@ -20,7 +20,8 @@ License
 
 Acknowledgements
 
-**Introduction**
+
+<h3>Introduction</h3>
 The Movie Ticket Booking System is a comprehensive DBMS project aimed at enhancing the efficiency of movie ticket booking. It supports user authentication, movie search, ticket booking, cancellation, and user feedback.
 
 **Features**
