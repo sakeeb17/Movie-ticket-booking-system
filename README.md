@@ -28,17 +28,24 @@ The Movie Ticket Booking System is a comprehensive DBMS project aimed at enhanci
 <h3>Features</h3>
 
 User Authentication
+
 Movie Search
+
 Ticket Booking and Cancellation
+
 Movie Rating System
+
 Administrator Dashboard
 
-**Technologies Used**
+<h3>Technologies Used</h3>
+
 Front-end: Streamlit
+
 Back-end: MySQL
+
 Programming Languages: Python, SQL
 
-**Setup and Installation**
+<h3>Setup and Installation</h3>
 
 1)Clone the repository:git clone https://github.com/yourusername/Movie-Ticket-Booking-System.git
 
@@ -50,18 +57,25 @@ Programming Languages: Python, SQL
 
 5)Run the Streamlit application:streamlit run app.py
 
-**Usage**
+<h3>Usage</h3>
+
 Register as a new user and log in.
+
 Search for available movies and select your preferred showtime.
+
 Book tickets and manage your reservations through the user dashboard.
+
 Administrators can manage users, view movie bookings, and perform other administrative tasks through the admin dashboard.
 
-**Contributing**
+<h3>Contributing</h3>
+
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-**License**
+<h3>License</h3>
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Acknowledgements**
+<h3>Acknowledgements</h3>
+
 Special thanks to Dr. Mannar Mannan J for their guidance and support.
 The project was developed as a part of the fifth-semester DBMS project under the supervision of the faculty of the Computer Science & Engineering department at PES University.
