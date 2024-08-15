@@ -1,4 +1,4 @@
-<h1>**Movie Ticket Booking System**</h1>
+<h1>Movie Ticket Booking System</h1>
 A web-based application developed using Streamlit for the front-end and MySQL for the back-end. This project is designed to streamline the process of booking movie tickets, providing an efficient and user-friendly interface for both customers and cinema administrators.
 
 **Table of Contents**
