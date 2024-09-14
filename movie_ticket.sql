@@ -1,5 +1,5 @@
-create database final_movie;
-use final_movie;
+create database movie_ticket;
+use movie_ticket;
 
 CREATE Table users(
 User_ID varchar(5),
